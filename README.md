@@ -188,7 +188,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-**Alok** - [your.email@example.com](mailto:your.email@example.com)  
+**Alok** - [your.email@example.com](mailto:aloknathtiwari2000@gmail.com)  
 Project Link: [https://github.com/yourusername/office_management_api](https://github.com/yourusername/office_management_api)
 
 Feel free to reach out for any inquiries or feedback regarding the project!
